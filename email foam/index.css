@@ -1,0 +1,30 @@
+.custom-modal-content {
+    border-radius: 0px;
+    border: 0px;
+    padding: 4em 5em;
+    background-image: linear-gradient(125.2deg, #ff4081 0.79%, #ce3473 100%);
+
+}
+
+.email-form-wrapper {
+    margin-top: 3em;
+}
+
+.btn-subscribe {
+    background: #a71153;
+    color: white;
+    border-radius: 4px;
+    padding: 10px 20px;
+}
+
+input {
+    padding: 10px 15px;
+    border: none;
+    width: 100%;
+    border-radius: 8px;
+}
+
+input:focus {
+    border: none;
+    outline: none;
+}
